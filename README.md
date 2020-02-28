@@ -1,4 +1,4 @@
-# Investigate-Database---dvdrentals
+# Investigate Database - dvdrentals
 The purpose of this project is to investigate dvdrental database by 
 
 + write queries to answer the questions below;
