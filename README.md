@@ -1,7 +1,7 @@
 # Investigate-Database---dvdrentals
 The purpose of this project is to investigate dvdrental database by 
 
-+ writing queries to answer the questions below;
++ write queries to answer the questions below;
 
   	+ Who are the top 10 paying customers and what are their detials?
 
@@ -15,6 +15,6 @@ The purpose of this project is to investigate dvdrental database by
   	+ Create a query that lists each movie, 
 	  the film category it is classified in, and the number of times it has been rented out
   
-+ visualizing the query results 
++ visualize the query results 
 
-+ drafting a report based on visualizations
++ draft a report based on visualizations
